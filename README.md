@@ -5,17 +5,23 @@ Tutorial on GitHub Pages + Travis CI + Heroku + Zeit
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Files for services
+## Need for services
 
-### Travis
+### [GitHub Pages](https://morejust.github.io/russianhackteam)
+
+* index.html (in `master`, `docs` or `gh-pages` branch)
+* proper routing for static files (please google)
+
+### [Travis](https://travis-ci.org/morejust/russianhackteam)
 
 * .travis.yml
 
-### Heroku
+### [Heroku](https://russianhackteam.herokuapp.com/)
 
 * Procfile
+* app.json (optional: only to make "deploy with heroku" button work)
 
-### Zeit
+### [Zeit](russianhackteam.okhlopkov.now.sh)
 
 * now.json
 
