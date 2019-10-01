@@ -21,12 +21,11 @@ Tutorial on GitHub Pages + Travis CI + Heroku + Zeit
 * Procfile
 * app.json (optional: only to make "deploy with heroku" button work)
 
-### [Zeit](russianhackteam.okhlopkov.now.sh)
+### [Zeit](https://russianhackteam.okhlopkov.now.sh)
 
 * now.json
-
-
-
+* non-organization repos only
+* non-mutable disk of deployed server
 
 
 
@@ -35,3 +34,4 @@ Tutorial on GitHub Pages + Travis CI + Heroku + Zeit
 Автор: [@ohld](https://okhlopkov.com) вдохновлялся:
 * Документациями
 * https://github.com/realpython/discover-flask
+* https://zeit.co/blog/python-wsgi
