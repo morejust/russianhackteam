@@ -1,5 +1,5 @@
 {
-    "name": "Node.js Sample",
-    "description": "A barebones Node.js app using Express 4",
+    "name": "Russian Hack Team free services tutorial",
+    "description": "basic template of Flask app using GitHub Pages, Travis, Heroku and Now.sh",
     "repository": "https://github.com/morejust/russianhackteam"
 }
