@@ -1,9 +1,16 @@
 # russianhackteam
-Tutorial on GitHub Pages + Travis CI + Heroku + Zeit
+Tutorial on GitHub Pages + Travis CI + Heroku + Zeit with simple Flask app.
 
 [![Build Status](https://travis-ci.org/morejust/russianhackteam.svg?branch=master)](https://travis-ci.org/morejust/russianhackteam)
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/morejust/russianhackteam)
+
+### Flask project files
+
+* **index.html** - just redirect to `templates/index.html` - for GH Pages demo
+* **templates/** folder with html files
+* **requirements.txt** - python packages to be installed 
+
 
 ## Need for services
 
