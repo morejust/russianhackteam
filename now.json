@@ -2,8 +2,8 @@
 	"version": 2,
 	"builds": [
 		{ "src": "app.py", "use": "@now/python" }
-    ],
-    "routes": [
+   	],
+	"routes": [
 		{ "src": "/(.*)", "dest": "app.py" }
 	]
 }
